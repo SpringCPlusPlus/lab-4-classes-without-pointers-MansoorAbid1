@@ -4,7 +4,6 @@
 #include "doctest.h"
 #include "Point.h"
 #include "Rectangle.h"
-#include "/workspaces/lab-4-classes-without-pointers-MansoorAbid1/Point.cpp"
 
 TEST_CASE("Point class tests") {
 
